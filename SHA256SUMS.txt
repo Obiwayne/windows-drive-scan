@@ -1,0 +1,2 @@
+8f8eaf99629a2cd35bce1f14d5750fe48189c8b911cdec8ff33be5dc0430702d  windows-drive-scan/scripts/scan.ps1
+2d3d58e177d8675133053fed9517ae6b128c02aeb4961f4d8b79b4d95ac20c2a  windows-drive-scan/SKILL.md
